@@ -1,0 +1,15 @@
+White Glass
+Plastic
+Paper
+Metal
+Green Glass
+Cardboard
+Brown Glass
+Biological
+Battery
+Pen
+Pencil
+Toothbrush
+Mask
+Human
+Unknown
